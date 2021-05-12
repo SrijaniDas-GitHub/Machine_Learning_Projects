@@ -23,7 +23,8 @@ Your main task is to cluster the countries by the factors mentioned above and th
 - Both K-means and Hierarchical may give different results because of previous analysis (whether you chose to keep or remove the outliers, how many clusters you chose,  etc.) 
 Hence, there might be some subjectivity in the final number of countries that you think should be reported back to the CEO since they depend upon the preceding analysis as well. Here, make sure that you report back at least 5 countries which are in direst need of aid from the analysis work that you perform.
 
-Results  Expected
+**Results  Expected**
+
 A well-commented Jupyter notebook containing the Clustering Models(both K-means and Hierarchical Clustering) and the final list of countries.
 Present the overall approach of the analysis in a presentation 
 Mention the problem statement and the analysis approach.
