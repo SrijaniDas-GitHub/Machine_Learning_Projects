@@ -8,4 +8,4 @@ Dataset used :
 
 2. spam dataset (https://web.stanford.edu/~hastie/ElemStatLearn//datasets/spam.data)
 Data dictionary (https://web.stanford.edu/~hastie/ElemStatLearn//datasets/spam.info.txt)
-[Copy this to an excel sheet and use text_to_column tool under "Data" tab]
+
